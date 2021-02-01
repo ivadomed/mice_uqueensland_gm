@@ -1,5 +1,7 @@
 # mice_uqueensland_gm
 
+![alt text](seg_gm.gif)
+
 Segmentation model for mouse spinal gray matter segmentation. Created with [ivadomed](http://ivadomed.org/) using data from University of Queensland.
 
 This model is readily available in [SCT](https://spinalcordtoolbox.com/en/stable/) (v5.0.0 and higher).
