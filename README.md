@@ -4,7 +4,7 @@ Segmentation model for mouse spinal gray matter segmentation. Created with [ivad
 
 This model is readily available in [SCT](https://spinalcordtoolbox.com/en/stable/) (v5.0.0 and higher).
 
-Download it: ⏱📥⏳
+Download it: 📥
 ```bash
 sct_deepseg -install-task seg_mice_gm
 ```
